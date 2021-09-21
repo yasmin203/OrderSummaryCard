@@ -11,7 +11,7 @@ body {
   background-color: hsl(225, 100%, 94%);
 }
 
-article{
+main{
   background: url("./images/pattern-background-desktop.svg") center center
     no-repeat;
   width: 100%;
